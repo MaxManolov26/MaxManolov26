@@ -1,7 +1,5 @@
-# Max's Open Chess Game
-
-Everyone can play in this chess game!  
-Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
+# Everyone can play in this chess game!  
+# Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 
 <!-- BEGIN CHESS BOARD -->
 |   | A | B | C | D | E | F | G | H |   |
