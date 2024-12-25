@@ -35,7 +35,6 @@
 | **H2** | [H3](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H3), [H4](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+H2+to+H4) |
 <!-- END MOVES LIST -->
 
-<summary>Last 5 moves in this game</summary>
 <!-- BEGIN LAST MOVES -->
 
 | Move | Credit |
