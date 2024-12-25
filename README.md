@@ -1,4 +1,4 @@
-# Max's Open Chess Tournament
+# Max's Open Chess Game
 
 Everyone can play in this chess game!  
 Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
