@@ -36,9 +36,6 @@ def generate_last_moves():
             if not ":" in line:
                 continue
 
-            if counter >= settings['misc']['max_last_moves']:
-                break
-
             counter += 1
 
             match_obj = re.search('([A-H][1-8])([A-H][1-8])', line, re.I)
