@@ -22,20 +22,6 @@ def create_issue_link(source, dest_list):
     ret = [create_link(dest, issue_link.format(source=source, dest=dest)) for dest in sorted(dest_list)]
     return ", ".join(ret)
 
-def generate_top_moves():
-    with open("data/top_moves.txt", 'r') as file:
-        dictionary = ast.literal_eval(file.read())
-
-    markdown = "\n"
-    markdown += "| Total moves |  User  |\n"
-    markdown += "| :---------: | :----- |\n"
-
-    max_entries = settings['misc']['max_top_moves']
-    for key,val in sorted(dictionary.items(), key=lambda x: x[1], reverse=True)[:max_entries]:
-        markdown += "| {} | {} |\n".format(val, create_link(key, "https://github.com/" + key[1:]))
-
-    return markdown + "\n"
-
 def generate_last_moves():
     markdown = "\n"
     markdown += "| Move | Author |\n"
