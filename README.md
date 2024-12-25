@@ -50,17 +50,4 @@
 <!-- END LAST MOVES -->
 </details>
 
-<details>
-  <summary>Top 10 most moves across all games</summary>
-  <!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 2 | [@MaxManolov26](https://github.com/MaxManolov26) |
-| 1 | [@ngradinarov](https://github.com/ngradinarov) |
-| 1 | [@sidarutla](https://github.com/sidarutla) |
-
-<!-- END TOP MOVES -->
-</details>
-
 ---
