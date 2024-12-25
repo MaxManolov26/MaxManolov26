@@ -1,7 +1,7 @@
 name: 'Stockfish vs AlphaZero (Draw, insufficient material)'
-owner: '@marcizhu'
+owner: '@MaxManolov26'
 moves:
-  - author: '@marcizhu'
+  - author: '@MaxManolov26'
     move: 'Chess: Start new game'
 
   - author: '@Stockfish'
