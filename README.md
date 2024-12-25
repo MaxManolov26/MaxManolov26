@@ -41,7 +41,7 @@ Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
   <summary>Last 5 moves in this game</summary>
   <!-- BEGIN LAST MOVES -->
 
-| Move | Author |
+| Move | Credit |
 | :--: | :----- |
 | `E7` to `E6` | [ @MaxManolov26](https://github.com/MaxManolov26) |
 | `G1` to `F3` | [ @sidarutla](https://github.com/sidarutla) |
