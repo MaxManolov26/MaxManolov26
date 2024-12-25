@@ -17,7 +17,7 @@ Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
-**It's your turn to move! Choose one from the following table**
+**Choose a move from the table**
 
 <!-- BEGIN MOVES LIST -->
 |  FROM  | TO (Just click a link!) |
