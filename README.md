@@ -18,7 +18,7 @@
 **Choose a move from the table**
 
 <!-- BEGIN MOVES LIST -->
-|  FROM  | TO                      |
+|  FROM  |            TO           |
 | :----: | :---------------------- |
 | **A2** | [A3](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A3), [A4](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+A2+to+A4) |
 | **B1** | [A3](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+A3), [C3](https://github.com/MaxManolov26/MaxManolov26/issues/new?body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD&title=Chess%3A+Move+B1+to+C3) |
