@@ -19,8 +19,19 @@ It's your turn to play! Move a <!-- BEGIN TURN -->black<!-- END TURN --> piece.
 
 **It's your turn to move! Choose one from the following table**
 
+<!-- BEGIN MOVES LIST -->
+|  FROM  | TO (Just click a link!) |
+| :----: | :---------------------- |
+<!-- END MOVES LIST -->
+
 <details>
   <summary>Last 5 moves in this game</summary>
+  <!-- BEGIN LAST MOVES -->
+
+| Move | Author |
+| :--: | :----- |
+
+<!-- END LAST MOVES -->
 </details>
 
 <details>
